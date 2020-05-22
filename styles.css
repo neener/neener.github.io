@@ -12,7 +12,3 @@ body {
 .footer {
   flex-shrink: 0;
 }
-
-.footer p {
-  letter-spacing: .3px;
-}
