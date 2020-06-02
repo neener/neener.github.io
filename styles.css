@@ -12,3 +12,7 @@ body {
 .footer {
   flex-shrink: 0;
 }
+iframe {
+  width: 100vw;
+  height: 100vh;
+}
